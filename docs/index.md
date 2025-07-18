@@ -1,4 +1,4 @@
-# ink! Bounties Tutorial Series
+# ink! Tutorial Series for beginners
 
 Welcome to the comprehensive tutorial series for the ink! Bounties program! This collection of 12 tutorials covers everything you need to know to build composable, multi-chain dApps using ink! on Polkadot.
 
