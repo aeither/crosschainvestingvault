@@ -1,16 +1,17 @@
-[package]
-name = "crosschainvestingvault"
-version = "0.1.0"
-edition = "2021"
+[workspace]
+members = [
+    "shuttle-backend",
+    "vesting_vault",
+]
+resolver = "2"
 
-[dependencies]
-axum = "0.8"
-shuttle-axum = "0.56.0"
-shuttle-runtime = "0.56.0"
-tokio = "1.28.2"
+[workspace.dependencies]
 ink = "5"
-scale = "0.1"
-scale-info = "2"
-# Optional, but helpful for XCM integration and messaging
+scale = { package = "parity-scale-codec", version = "3", default-features = false, features = ["derive"] }
+scale-info = { version = "2", default-features = false, features = ["derive"], optional = true }
+axum = "0.8"
+tokio = "1.28.2"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
 hex = "0.4"
 drink = "0.18.0"
