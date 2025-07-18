@@ -1,4 +1,3 @@
-
 # Your First Steps with ink!: A Beginner's Guide to Smart Contract Development
 
 Welcome to the exciting world of ink! smart contract development! This guide will help you understand what ink! is, why it's powerful, and how to get started building your first smart contract. Don't worry if you're new to blockchain development - we'll take it step by step.

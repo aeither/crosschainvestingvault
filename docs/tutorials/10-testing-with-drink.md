@@ -1,4 +1,3 @@
-
 # Integration Testing with drink!: A Comprehensive Guide for ink! Smart Contract Developers
 
 **drink!** (De-chained Ready-to-play ink! playground) represents a revolutionary approach to testing ink! smart contracts, offering developers a powerful intermediate solution between simple unit tests and complex end-to-end testing. This comprehensive guide explores how to leverage drink! for robust integration testing of your ink! smart contracts.

@@ -1,4 +1,3 @@
-
 # Tutorial 5: Events and Error Handling in ink!
 
 ## Overview
